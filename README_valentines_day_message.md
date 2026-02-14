@@ -29,7 +29,7 @@ This project is an interactive Valentine's Day message with floating hearts, a p
 
 You can view the live project at:
 
-[https://avro0820.github.io/zakariavalentine/](https://avro0820.github.io/zakariavalentine/)
+[https://avro0820.github.io/zeinsvalentinewish/](https://avro0820.github.io/zeinsvalentinewish/)
 
 ## License
 
@@ -37,4 +37,4 @@ This project is open-source and available under the MIT License.
 
 ## Created by
 
-**Zakaria**
+**ZEIN**
